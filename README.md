@@ -1,3 +1,6 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blue+Red&color=000EF7&lines=Didula+Whatsapp+Bot)](https://git.io/typing-svg)
+
+
 <a href="https://github.com/Its-meDidulaBot/Didula-Whatsapp-Bot-V1"><img src="https://i.ibb.co/JnwkfJP/logo-fc681ccd.png" alt="google-font" border="0"></a>
 
 <div align="center">
