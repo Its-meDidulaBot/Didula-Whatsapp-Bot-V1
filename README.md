@@ -15,7 +15,7 @@
 
   
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuser-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Its-meDidulaBot/Didula-whatsapp-Bot-Qr?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-meDidulaBot/Didula-Whatsapp-Bot-V1)
 
