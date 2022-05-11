@@ -16,13 +16,12 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-meDidulaBot/Didula-Whatsapp-Bot-V1)
 
-     </div>
+    
 
-     [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
-
+     
 ### Official Group
 
-- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP
+- [Join Oficial Whatsapp Group](https://chat.whatsapp.com/LWOdea4zvErAHkLNuAQkoP)
 
 >
 >
