@@ -4,7 +4,7 @@ const fs = require('fs');
 const axios = require('axios');
 const Config = require('../config');
 
-if (Config.WORKTYPE == 'private') {
+if (Config.WORKTYPE == 'public') {
     
 Asena.addCommand({pattern: 'aliv', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
