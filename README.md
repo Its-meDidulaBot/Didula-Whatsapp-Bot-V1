@@ -22,7 +22,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Its-meDidulaBot/Didula-Whatsapp-Bot-V1)
 
     
-
+### Supported by Dasun
      
 ### Official Group
 
